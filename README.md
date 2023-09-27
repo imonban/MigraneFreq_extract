@@ -8,6 +8,9 @@ We design a generative GPT 2 transformer model using few-shot learning to extrac
 To run the code: 
 
 Step 1. Install the environment using yml file: conda env create -f environment.yml 
+
 Step 2. Download the model weights from here - https://drive.google.com/drive/folders/1DmGBddaUDX3DNHJAv132x9tIqkfqzKIG?usp=sharing
+
 Step 3. Change infer.sh to provide the correct filepath and model weights, and also provide the correct path where you want to store the output
+
 Step 4. Run the model ./infer.sh
