@@ -15,4 +15,6 @@ Step 3. Change infer.sh to provide the correct filepath and model weights, and a
 
 Step 4. Run the model ./infer.sh
 
-The GPT-2 generative model was the best-performing model with an accuracy of 0.92 [0.91 – 0.93] and R2 score of 0.89 [0.87, 0.9], and all GPT2-based models outperformed the ClinicalBERT model in terms of the exact matching accuracy. 
+The GPT-2 generative model was the best-performing model with an accuracy of 0.92 [0.91 – 0.93] and R2 score of 0.89 [0.87, 0.9], and all GPT2-based models outperformed the ClinicalBERT model in terms of the exact matching accuracy.
+
+Creator: Imon Banerjee (Banerjee.Imon@mayo.edu), Man Luo (luo.man@mayo.edu)
