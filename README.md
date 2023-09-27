@@ -1,4 +1,4 @@
-# A Large Language Model-Based Generative Nature Language Processing Framework Finetuned on Clinical Notes Accurately Extracts Headache Frequency from Clinic Notes
+# Generative Nature Language Processing Framework Finetuned on Clinical Notes Accurately Extracts Headache Frequency from Clinic Notes
 
 Headache frequency, defined as the number of days with any headache in a month (or four weeks), remains a key parameter in the evaluation of treatment response to migraine preventive medications. However, due to the variations and inconsistencies in documentation by clinicians, significant challenges exist to accurately extract headache frequency from the electronic health record (EHR) by traditional natural language processing (NLP) algorithms.
 
