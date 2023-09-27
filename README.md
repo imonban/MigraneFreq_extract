@@ -7,7 +7,7 @@ We design a generative GPT 2 transformer model using few-shot learning to extrac
 
 To run the code: 
 
-Step 1. Install the environment using yml file: conda env create -f environment.yml 
+Step 1. Install the environment using yml file: conda env create -f environment_migraine.yml
 
 Step 2. Download the model weights from here - https://drive.google.com/drive/folders/1DmGBddaUDX3DNHJAv132x9tIqkfqzKIG?usp=sharing
 
